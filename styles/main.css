@@ -1,0 +1,29 @@
+.page {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  background-color: #331D2C;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-content {
+  background-color: #3F2E3E;
+  display: flex;
+  flex-direction: column;
+  width: 55vw;
+  height: 100%;
+  color: #EFE1D1;
+  padding: 5vw;
+}
+
+.main-title-box {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.page-link {
+  color: #EFE1D1;
+}
+
